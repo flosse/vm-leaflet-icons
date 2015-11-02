@@ -1,6 +1,6 @@
 {
   "name": "vm-leaflet-icons",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "VM icons for leaflet.js",
   "main": "lib/index.js",
   "repository": {
@@ -23,5 +23,8 @@
   },
   "scripts": {
     "prepublish": "coffee -c -o lib/ src/"
-   }
+  },
+  "dependencies": {
+    "leaflet": "^0.7.7"
+  }
 }
