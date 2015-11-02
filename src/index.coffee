@@ -5,9 +5,13 @@ L = require "leaflet"
 VMIcon = L.Icon.extend
 
   options:
-    iconSize    : [28, 40]
-    iconAnchor  : [14, 40]
-    popupAnchor : [14, 15],
+    iconSize        : [28, 40]
+    iconAnchor      : [14, 40]
+    shadowSize      : [34, 48]
+    shadowAnchor    : [17, 44]
+    shadowUrl       : require './images/shadow.png'
+    shadowRetinaUrl : require './images/shadow-2x.png'
+    popupAnchor     : [14, 15]
 
 module.exports =
   company     : new VMIcon

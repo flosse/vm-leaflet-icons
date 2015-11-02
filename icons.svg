@@ -6,97 +6,138 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   version="1.1"
+   width="411.43304"
+   height="115.43307"
+   viewBox="0 0 411.43307 115.43307"
    id="svg4168"
-   viewBox="0 0 331.43308 115.43307"
-   height="32.577778mm"
-   width="93.537781mm">
+   version="1.1">
   <defs
      id="defs4170">
     <linearGradient
        id="linearGradient4152">
       <stop
-         style="stop-color:#c9c9c9;stop-opacity:1"
+         id="stop4154"
          offset="0"
-         id="stop4154" />
+         style="stop-color:#c9c9c9;stop-opacity:1" />
       <stop
-         style="stop-color:#545454;stop-opacity:1"
+         id="stop4156"
          offset="1"
-         id="stop4156" />
+         style="stop-color:#545454;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient4865">
       <stop
-         style="stop-color:#ea84aa;stop-opacity:1"
+         id="stop4867"
          offset="0"
-         id="stop4867" />
+         style="stop-color:#ea84aa;stop-opacity:1" />
       <stop
-         style="stop-color:#c11f5a;stop-opacity:1"
+         id="stop4869"
          offset="1"
-         id="stop4869" />
+         style="stop-color:#c11f5a;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient4859">
       <stop
-         style="stop-color:#18e4ff;stop-opacity:1"
+         id="stop4861"
          offset="0"
-         id="stop4861" />
+         style="stop-color:#18e4ff;stop-opacity:1" />
       <stop
-         style="stop-color:#008799;stop-opacity:1"
+         id="stop4863"
          offset="1"
-         id="stop4863" />
+         style="stop-color:#008799;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="linearGradient4741">
       <stop
-         id="stop4743"
+         style="stop-color:#bef019;stop-opacity:1"
          offset="0"
-         style="stop-color:#bef019;stop-opacity:1" />
+         id="stop4743" />
       <stop
-         id="stop4745"
+         style="stop-color:#658208;stop-opacity:1"
          offset="1"
-         style="stop-color:#658208;stop-opacity:1" />
+         id="stop4745" />
     </linearGradient>
     <radialGradient
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-2.0733135,-0.00485178,0.00562694,-2.4045773,1203.541,611.23353)"
-       r="28"
-       fy="189.05052"
-       fx="392.21091"
-       cy="189.05052"
-       cx="392.21091"
+       xlink:href="#linearGradient4741"
        id="radialGradient4747"
-       xlink:href="#linearGradient4741" />
-    <radialGradient
-       r="28"
-       fy="189.05052"
-       fx="392.21091"
-       cy="189.05052"
        cx="392.21091"
-       gradientTransform="matrix(-2.0733135,-0.00485178,0.00562694,-2.4045773,1123.541,611.23353)"
-       gradientUnits="userSpaceOnUse"
+       cy="189.05052"
+       fx="392.21091"
+       fy="189.05052"
+       r="28"
+       gradientTransform="matrix(-2.0733135,-0.00485178,0.00562694,-2.4045773,1017.5764,495.26569)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       xlink:href="#linearGradient4859"
        id="radialGradient4853"
-       xlink:href="#linearGradient4859" />
-    <radialGradient
-       r="28"
-       fy="189.05052"
-       fx="392.21091"
-       cy="189.05052"
-       cx="392.21091"
-       gradientTransform="matrix(-2.0733135,-0.00485178,0.00562694,-2.4045773,1043.541,611.23353)"
        gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.0733135,-0.00485178,0.00562694,-2.4045773,937.57643,495.26569)"
+       cx="392.21091"
+       cy="189.05052"
+       fx="392.21091"
+       fy="189.05052"
+       r="28" />
+    <radialGradient
+       xlink:href="#linearGradient4865"
        id="radialGradient4857"
-       xlink:href="#linearGradient4865" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.0733135,-0.00485178,0.00562694,-2.4045773,857.57643,495.26569)"
+       cx="392.21091"
+       cy="189.05052"
+       fx="392.21091"
+       fy="189.05052"
+       r="28" />
+    <radialGradient
+       xlink:href="#linearGradient4152"
+       id="radialGradient3350"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-2.0733135,-0.00485178,0.00562694,-2.4045773,1097.5764,495.26569)"
+       cx="392.21091"
+       cy="189.05052"
+       fx="392.21091"
+       fy="189.05052"
+       r="28" />
     <radialGradient
        r="28"
        fy="189.05052"
        fx="392.21091"
        cy="189.05052"
        cx="392.21091"
-       gradientTransform="matrix(-2.0733135,-0.00485178,0.00562694,-2.4045773,1283.541,611.23353)"
+       gradientTransform="matrix(-2.0733135,-0.00485178,0.00562694,-2.4045773,1177.5764,495.26569)"
        gradientUnits="userSpaceOnUse"
-       id="radialGradient3350"
-       xlink:href="#linearGradient4152" />
+       id="radialGradient8228"
+       xlink:href="#linearGradient4741" />
+    <filter
+       id="filter8374"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         id="feFlood8376"
+         result="flood"
+         flood-color="rgb(0,0,0)"
+         flood-opacity="0.80000000000000004" />
+      <feComposite
+         id="feComposite8378"
+         result="composite1"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feGaussianBlur
+         id="feGaussianBlur8380"
+         result="blur"
+         stdDeviation="2.5"
+         in="composite1" />
+      <feOffset
+         id="feOffset8382"
+         result="offset"
+         dy="3"
+         dx="1" />
+      <feComposite
+         id="feComposite8384"
+         result="composite2"
+         operator="atop"
+         in2="offset"
+         in="offset" />
+    </filter>
   </defs>
   <metadata
      id="metadata4173">
@@ -116,7 +157,7 @@
         </dc:creator>
         <dc:rights>
           <cc:Agent>
-            <dc:title></dc:title>
+            <dc:title />
           </cc:Agent>
         </dc:rights>
       </cc:Work>
@@ -137,24 +178,24 @@
       </cc:License>
     </rdf:RDF>
   </metadata>
-  <g
-     transform="translate(-185.96457,-115.96784)"
-     id="layer1">
-    <path
-       style="fill:url(#radialGradient4747);fill-opacity:1"
-       id="path16"
-       d="m 391.68111,213.68437 c 0,0 -28,-37.16 -28,-52 0,-14.84 13.16,-28 28,-28 14.84,0 28,13.16 28,28 0,14.84 -28,52 -28,52 z" />
-    <path
-       d="m 311.68111,213.68437 c 0,0 -28,-37.16 -28,-52 0,-14.84 13.16,-28 28,-28 14.84,0 28,13.16 28,28 0,14.84 -28,52 -28,52 z"
-       id="path4851"
-       style="fill:url(#radialGradient4853);fill-opacity:1" />
-    <path
-       style="fill:url(#radialGradient4857);fill-opacity:1"
-       id="path4855"
-       d="m 231.68111,213.68437 c 0,0 -28,-37.16 -28,-52 0,-14.84 13.16,-28 28,-28 14.84,0 28,13.16 28,28 0,14.84 -28,52 -28,52 z" />
-    <path
-       d="m 471.68111,213.68437 c 0,0 -28,-37.16 -28,-52 0,-14.84 13.16,-28 28,-28 14.84,0 28,13.16 28,28 0,14.84 -28,52 -28,52 z"
-       id="path3348"
-       style="fill:url(#radialGradient3350);fill-opacity:1" />
-  </g>
+  <path
+     style="fill:url(#radialGradient4747);fill-opacity:1"
+     id="path16"
+     d="m 205.71654,97.716532 c 0,0 -28,-37.16 -28,-52 0,-14.84 13.16,-28 28,-28 14.84,0 28,13.16 28,28 0,14.84 -28,52 -28,52 z" />
+  <path
+     d="m 125.71654,97.716532 c 0,0 -28.000005,-37.16 -28.000005,-52 0,-14.84 13.160005,-28 28.000005,-28 14.84,0 28,13.16 28,28 0,14.84 -28,52 -28,52 z"
+     id="path4851"
+     style="fill:url(#radialGradient4853);fill-opacity:1" />
+  <path
+     style="fill:url(#radialGradient4857);fill-opacity:1"
+     id="path4855"
+     d="m 45.716535,97.716532 c 0,0 -28,-37.16 -28,-52 0,-14.84 13.16,-28 28,-28 14.84,0 28,13.16 28,28 0,14.84 -28,52 -28,52 z" />
+  <path
+     d="m 285.71654,97.716532 c 0,0 -28,-37.16 -28,-52 0,-14.84 13.16,-28 28,-28 14.84,0 28,13.16 28,28 0,14.84 -28,52 -28,52 z"
+     id="path3348"
+     style="fill:url(#radialGradient3350);fill-opacity:1" />
+  <path
+     d="m 365.71654,97.716532 c 0,0 -28,-37.16 -28,-52 0,-14.84 13.16,-28 28,-28 14.84,0 28,13.16 28,28 0,14.84 -28,52 -28,52 z"
+     id="path8226"
+     style="fill:url(#radialGradient8228);fill-opacity:1;filter:url(#filter8374)" />
 </svg>
