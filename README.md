@@ -5,10 +5,22 @@
 ## Usage
 
 ```js
-var L = require("leaflet");
-var VMIcons = require("vm-leaflet-icons");
+import L                  from "leaflet";
+import create, { icons }  from "vm-leaflet-icons";
 
 // ...
 
-L.marker([51.5, -0.09], {icon: VMIcons.company}).addTo(map);
+// create a gray icon
+var default = create();
+
+// create a icon for the 'company' category
+var company = create({category:'company'});
+
+// create a icon with shadow
+var shadowed = create({category: 'event', shadow:true});
+
+// use deafult icons
+L.marker([51.5, -0.09], { icon: icons.company }).addTo(map);
+
+// ...
 ```
